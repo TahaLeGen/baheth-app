@@ -1,0 +1,1 @@
+// TODO: Implement researcher single equipment page
