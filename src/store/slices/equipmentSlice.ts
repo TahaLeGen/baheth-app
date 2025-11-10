@@ -1,1 +1,0 @@
-// TODO: Implement equipment slice with equipment management

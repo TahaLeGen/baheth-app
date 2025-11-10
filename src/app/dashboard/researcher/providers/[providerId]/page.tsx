@@ -1,1 +1,0 @@
-// TODO: Implement researcher single provider page

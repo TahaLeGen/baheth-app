@@ -1,1 +1,0 @@
-// TODO: Define user types and interfaces

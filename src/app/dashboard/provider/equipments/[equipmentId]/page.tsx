@@ -1,1 +1,0 @@
-// TODO: Implement provider single equipment page

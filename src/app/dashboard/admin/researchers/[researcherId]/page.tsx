@@ -1,1 +1,0 @@
-// TODO: Implement admin single researcher page
